@@ -1,6 +1,8 @@
 # Discord Bot Using GPT3.5 to Roleplay as Hanyuu from Higurashi no Naku Koro Ni
 
-This discord bot responds to messages in all channels when the message starts with "hanyuu". More features are also present, which will be documented as they stabilize.
+This discord bot responds to messages in all channels when the message starts with "hanyuu".
+
+This was done mostly for fun, and the results aren't too impressive. More features planned in the future maybe.
 
 ## Requirements
 
